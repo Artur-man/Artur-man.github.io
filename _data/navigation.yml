@@ -6,6 +6,7 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
+  # these are at _posts 
   - title: "Networks and Graphs"
     url: /year-archive/
     
