@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-![Networks](/images/network.png)
+![Networks](/images/networks.png)
