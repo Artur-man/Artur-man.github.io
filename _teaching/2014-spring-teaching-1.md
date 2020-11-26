@@ -15,8 +15,8 @@ Briefly, the topics covered are: Introduction to R programming, data manipulatio
 Introduction to Data Science With R
 ======
 
-[Lecture](/files/editing-talk.png)
-[Lab](/files/editing-talk.png)
+[Lecture](/files/paper1.pdf)
+[Lab](/files/paper1.pdf)
 
 
 R Programming
