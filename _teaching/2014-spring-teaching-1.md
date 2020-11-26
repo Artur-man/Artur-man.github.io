@@ -1,10 +1,10 @@
 ---
 title: "A Simple Introduction to Data Science with R"
 # collection: teaching
-# type: "Undergraduate course"
+type: "Undergraduate level"
 permalink: /teaching/2014-spring-teaching-1
-# venue: "University 1, Department"
-# date: 2014-01-01
+venue: "Introductory"
+date: 2020-11-26
 # location: "City, Country"
 ---
 
