@@ -1,20 +1,42 @@
 ---
 title: "A Simple Introduction to Data Science with R"
 collection: teaching
-type: "Undergraduate course"
+# type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 # venue: "University 1, Department"
 # date: 2014-01-01
-location: "City, Country"
+# location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Introduction to Data Science With R
 ======
 
-Heading 2
+R Programming
 ======
 
-Heading 3
+Data Manipulation
+======
+
+Data Cleaning And Missing Data Analysis
+======
+
+Exploratory Data Analysis And Data Visualization
+======
+
+Inferential Statistics I
+======
+
+Inferential Statistics II
+======
+
+Fundemantels of Machine Learning
+======
+
+Supervised Learning I: Linear and Logistic Regression
+======
+
+Supervised Learning II: SVMs and Classification trees
+======
+
+Supervised Learning III: K-means Clustering
 ======
