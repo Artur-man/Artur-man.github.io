@@ -5,6 +5,12 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+![image](path-to-image.jpg){: style="float: left"}
+
+First Statistics, then Computational Science and now Computational Biology
+
+![image](graph_two.jpg){: style="float: left"; margin-right: 10em; height="25%" width="25%"} ## Some Text On Left!<br>First Statistics, then Computational Science and now Computational Biology ... <br><br>Some Text On Left!Some Text On Left!Some Text
+
 First Statistics, then Computational Science and now Computational Biology ... 
 
 
