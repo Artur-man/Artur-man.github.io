@@ -10,7 +10,7 @@ redirect_from:
 
 "*The less there is to justify a traditional custom, the harder it is to get rid of it*" 
 
-                                                                        \- Mark Twain
+\- Mark Twain
 
 
 ![Networks](/images/networks.png)
