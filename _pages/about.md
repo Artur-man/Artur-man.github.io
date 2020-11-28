@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-"*The less there is to justify a traditional custom, the harder it is to get rid of it*" - Mark Twain
+"*The less there is to justify a traditional custom, the harder it is to get rid of it*" 
+
+                                                                        \- Mark Twain
 
 
 ![Networks](/images/networks.png)
