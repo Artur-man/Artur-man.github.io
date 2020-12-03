@@ -12,39 +12,36 @@ This course aims to introduce the interaction between topics of statistics, data
 
 Briefly, the topics covered are: Introduction to R programming, data manipulation, missing data analysis, exploratory data analysis and data visualization, inferential statistics, supervised and unsupervised machine learning.
 
-Introduction to Data Science With R
-======
+**Introduction to Data Science With R**
 
-[Lecture](/files/paper1.pdf)
-[Lab](/files/paper1.pdf)
+Definition of Data Science, Structured and Unstructed Data, Data Analysis vs Machine Learning, R and Rstudio, 
+Life Cycle of Data Science, Introductory Examples, R packages, Introduction to Data Manipulation with R (vectors, sequences and factors)
 
+[Lecture](/files/Lecture1.pdf)
+[Quiz](/files/Lecture1_quiz.pdf)
 
-R Programming
-======
+**R Programming**
 
-Data Manipulation
-======
+Basic R programming, matrices, binding vectors, indexing, lists, if statements, loops, vectorization, functions, apply function,
+writing efficient R codes, benchmarking R functions and scripts
 
-Data Cleaning And Missing Data Analysis
-======
+[Lecture](/files/Lecture2.pdf)
+[Quiz](/files/Lecture2_quiz.pdf)
 
-Exploratory Data Analysis And Data Visualization
-======
+**Data Manipulation**
 
-Inferential Statistics I
-======
+**Data Cleaning And Missing Data Analysis**
 
-Inferential Statistics II
-======
+**Exploratory Data Analysis And Data Visualization**
 
-Fundemantels of Machine Learning
-======
+**Inferential Statistics I**
 
-Supervised Learning I: Linear and Logistic Regression
-======
+**Inferential Statistics II**
 
-Supervised Learning II: SVMs and Classification trees
-======
+**Fundemantels of Machine Learning**
 
-Supervised Learning III: K-means Clustering
-======
+**Supervised Learning I: Linear and Logistic Regression**
+
+**Supervised Learning II: SVMs and Classification trees**
+
+**Supervised Learning III: K-means Clustering**
