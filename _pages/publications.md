@@ -13,8 +13,24 @@ My primary research interest is focused on implementing and designing machine le
 
 My research interests are also lie in Statistical Machine Learning on Networks with applications to Biological Networks and Knowledge Graphs. 
 
-{% include base_path %}
+**AMARETTO-Hub: a Biological Network Inference platform for Linking Diseases, Drivers, Targets and Drugs**
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+```html
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="/images/amarettohub.png" alt="" width="500" height="500">
+  </div>
+  <div>
+    <p>AMARETTO-Hub is a software platform for knowledge graph-based embedding of knowledge learned via multimodal 
+      and multiscale network-based data fusion. Graph-based embedding enables querying these complex graph-structured 
+      representations in a more sophisticated, efficient and user-friendly manner than can otherwise be accomplished by 
+      table representations alone. The proposed knowledge graph framework is accompanied by a network-based user interface 
+      that connects tools provided by the *AMARETTO software by a fast and scalable graph database platform Neo4j, and it 
+      allows users to inquire driver genes, regulatory circuits, clinical and functional characterizations of interest across 
+      studies of patients, etiologies and model systems of cancer for better driver and drug discovery. !</p>
+    <p>
+      AMARETTO-Hub is a user-friendly interactive interface developed with Shiny and Neo4j where (1) The AMARETTO algorithm learns networks of regulatory circuits - circuits of       drivers and their target genes - from functional genomics or multi-omics data and associates these circuits to clinical, molecular and imaging-derived phenotypes within         each biological system (e.g., model systems or patients); (2) The Community-AMARETTO algorithm learns subnetworks of regulatory circuits that are shared or distinct             across networks derived from multiple biological systems (e.g., model systems and patients, cohorts and individuals, diseases and etiologies, in vitro and in vivo               systems); and (3) The Imaging-AMARETTO algorithm maps radiography and histopathology imaging data onto the patient-derived multi-omics networks for imaging genomics             diagnostics.
+    </p>  
+  </div>
+</div> 
+```
