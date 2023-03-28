@@ -7,18 +7,19 @@
         Algorithms and platforms for spatial transcriptomics analysis
       image: spatial.png
       
-    - title: Transcriptional and Genomic Profiling
-      name: transprofiling
-      summary: |
-        Comparative profiling of large omics databases
-      image: profiling.png
-
     - title: Biological Knowledge Graphs
       name: knowledgegraph
       summary: |
         Large biological networks for knowledge discovery
       image: knowledgegraph.png
       link: amarettohub.html
+      
+    - title: Transcriptional and Genomic Profiling
+      name: transprofiling
+      summary: |
+        Comparative profiling of large omics databases
+      image: profiling.png
+      link: profiling.html
 
 - category: Statistical Learning and Computing
   vignettes:

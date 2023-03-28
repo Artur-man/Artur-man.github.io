@@ -28,7 +28,11 @@ process_entry <- function(dat) {
     img <- paste0('![](', 'image/', dat$image, '){width=3000px}')
   }
   link <- dat$link
-  go.button <- paste0('<a class="btn btn-primary" href="', link, '" role="button" style="width:100%" target = "_blank">GO</a>')
+  if(!is.null(link)){
+    go.button <- paste0('<a class="btn btn-primary" href="', link, '" role="button" style="width:100%" target = "_blank">GO</a>')
+  } else {
+    go.button <- paste0('<a class="btn btn-primary" href="', link, '" role="button" style="width:100%" target = "_blank" disabled>GO</a>')
+  }
   data.frame(
     title = make_href(url = link, text = dat$title),
     img = img,
@@ -101,11 +105,11 @@ vdat <- read_yaml(file = "research.yml")
 
 # Omics Analysis
 
-In high throughput sequencing era, genetic information is complex, chaotic and often incomprehensible. To this end, Bioinformatics has evolved to analyze and summarize massive sequencing data sets, and data scientific methods have been developed to investigate biological systems and cellular dynamics by using these large volumes of processed omics data. 
+<p style="text-align: justify"> In high throughput sequencing era, genetic information is complex, chaotic and often incomprehensible. To this end, Bioinformatics has evolved to analyze and summarize massive sequencing data sets, and data scientific methods have been developed to investigate biological systems and cellular dynamics by using these large volumes of processed omics data. </p>
 
-Across many projects, I have designed software platforms to generate information from such large sets of data in order to find similarities across countless datasets and to build network models to interrogate databases against each other to help biological scientists to build hypothesis.
+<p style="text-align: justify"> Across many projects, I have designed software platforms to generate information from such large sets of data in order to find similarities across countless datasets and to build network models to interrogate databases against each other to help biological scientists to build hypothesis. </p>
 
-Currently, we are developing additinal software tools to analyze spatial transcriptomics datasets and to infer spatial information of cellular systems. 
+<p style="text-align: justify"> Currently, we are developing additional software tools to analyze spatial transcriptomics datasets and to infer spatial information of cellular systems. </p>
 
 <br>
 
@@ -117,9 +121,9 @@ make_vignette_card_section(vdat = vdat, cat = 1)
 
 # Statisical Learning/Computing
 
-Computing is an essential part of statistical analysis where building appealing models of data as well as visualizing such data is crucial. A large proportion of my work include building and designing data structures for capturing essential information from the data to either summarize or visualize complex information. 
+<p style="text-align: justify"> Computing is an essential part of statistical analysis where building appealing models of data as well as visualizing such data is crucial. A large proportion of my work include building and designing data structures for capturing essential information from the data to either summarize or visualize complex information. </p>
 
-We have built graph models to capture essential information from data for the purpose of statistical learning, and we have also designed software tools to visualize and help analyzing such data (i.e. Dandelion Plot). 
+<p style="text-align: justify"> We have built graph models to capture essential information from data for the purpose of statistical learning, and we have also designed software tools to visualize and help analyzing such data (i.e. Dandelion Plot). </p>
 
 <br>
 
