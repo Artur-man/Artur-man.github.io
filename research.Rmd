@@ -99,7 +99,7 @@ vdat <- read_yaml(file = "research.yml")
 
 <br>
 
-# Computational Omics Analysis
+# Omics Analysis
 
 In high throughput sequencing era, genetic information is complex, chaotic and often incomprehensible. To this end, Bioinformatics has evolved to analyze and summarize massive sequencing data sets, and data scientific methods have been developed to investigate biological systems and cellular dynamics by using these large volumes of processed omics data. 
 
