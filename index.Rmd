@@ -81,7 +81,7 @@ img {
       I am a trained statistician, computational scientist and bioinformatician living in Berlin. 
     </p>
     <p style="text-align: justify">
-      Check out my <a href="research.html"> Research</a>! I currently work on developing graph-based learning algorithms and software platforms for <strong> spatial transcriptomics </strong> technologies, and I am also interested in <strong> biological knowledge graphs </strong> as well as machine learning approaches to analyzing <strong> omic datasets</strong>.
+      Check out my <a href="research.html"> Research</a>! I currently work on developing graph-based learning algorithms and software platforms for <strong> spatial transcriptomics </strong> technologies, and I am also interested in <strong> biological knowledge graphs </strong> as well as other machine learning approaches to analyzing <strong> omic datasets</strong>.
     </p>
     <p style="text-align: justify"> 
     I have lead and conducted some number of <a href="projects.html"> Bioinformatics Projects</a>, and developed several <a href="software.html"> Software </a> packages for achieving my research.

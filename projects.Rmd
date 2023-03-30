@@ -35,6 +35,31 @@ Emanuel Wyler and I are trying to understand the complexity of these comprehensi
 
 <br>
 
+# Codon Bias of ER associated RNA
+
+<p style="text-align: justify"> 
+Markus Landthaler and I are investigating the Codon usage bias of mRNA associated with Endoplasmic Reticulum (ER). Specifically, we are interested in certain sites of mRNA that interacts with HDLBP, a RNA-binding protein that regulates the translation of mRNA around ER. 
+</p>
+
+<p style="text-align: justify">
+We have recently started to implement custom scripts to analyze codon usage as well as to investigate the "codon pair" usage which counts pairs of codons.
+</p>
+
+**Reference**:
+[HDLBP binds ER-targeted mRNAs by multivalent interactions to promote protein synthesis of transmembrane and secreted proteins](https://github.com/LandthalerLab/CodonUtil)
+
+**GitHub**:
+[https://github.com/LandthalerLab/CodonUtil](https://github.com/LandthalerLab/CodonUtil)
+
+<br>
+
+<tr>
+  <td><img width="45%" height="45%" src="image/codon1.png" class="center"></td>
+  <td><img width="50%" height="50%" src="image/codon2.png" class="center"></td>
+</tr>
+
+<br>
+
 # Multiomic Brain Atlas
 
 <p style="text-align: justify"> This single cell brain atlas provides access to processed and analyzed data of human and mouse single cell (scRNA-Seq and scATAC-Seq) from large single cell multiomics studies conducted in Allen Institute for Brain Science as well as samples from additional projects such as FANTOM5 for CAGE-Seq. This integrative project has been conducted in collaboration with [https://www.umassmed.edu/gtc/about/faculty-publications/miguel-sena-esteves/](Sena-Esteves Lab) and [](Bioinformatics Core) at UMass Chan Medical School. </p>
@@ -59,7 +84,7 @@ Emanuel Wyler and I are trying to understand the complexity of these comprehensi
 # Vitiligo Atlas
 
 <p style="text-align: justify">
-In collaboration with Sena-Esteves Lab and Bioinformatics Core at UMass Chan Medical School, we provided access to the data we used in our recent publication ([Gellatly et. al 2021](https://www.science.org/doi/10.1126/scitranslmed.abd8995)) where we sought to identify cellular communications that show disruption in lesions or in non-lesional skins of individuals suffering from Vitiligo, an autoimmune skin disease characterized by the targeted destruction of melanocytes by T cells.
+In collaboration with Garber Lab and Bioinformatics Core at UMass Chan Medical School, we provided access to the data we used in our recent publication ([Gellatly et. al 2021](https://www.science.org/doi/10.1126/scitranslmed.abd8995)) where we sought to identify cellular communications that show disruption in lesions or in non-lesional skins of individuals suffering from Vitiligo, an autoimmune skin disease characterized by the targeted destruction of melanocytes by T cells.
 </p>
 
 <p style="text-align: justify">
