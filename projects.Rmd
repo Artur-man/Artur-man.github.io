@@ -13,7 +13,7 @@ output:
 # Wastewater Metagenomics
 
 <p style="text-align: justify"> 
-Emanuel Wyler, Markus Landthaler and I are developing computational pipelines for analyzing and monitoring wastewater data across Berlin and other environmental sites. 
+Emanuel Wyler, Markus Landthaler and I are developing computational pipelines for analyzing and monitoring wastewater data across Berlin and other environmental sites. See **Wastewater pipeline** [here](https://github.com/LandthalerLab/wastewater_virome).
 </p>
 
 <p style="text-align: justify">
@@ -22,9 +22,6 @@ We are trying to understand the taxonomic complexity of these comprehensive pool
 
 **Preprint**:
 [Comprehensive profiling of wastewater viromes by genomic sequencing](https://www.biorxiv.org/content/10.1101/2022.12.16.520800v1)
-
-**GitHub**:
-[https://github.com/LandthalerLab/wastewater_virome](https://github.com/LandthalerLab/wastewater_virome)
 
 <br>
 
@@ -38,18 +35,11 @@ We are trying to understand the taxonomic complexity of these comprehensive pool
 # Codon Bias of mRNA
 
 <p style="text-align: justify"> 
-Markus Landthaler and I are investigating the Codon usage bias of mRNA associated with Endoplasmic Reticulum (ER). Specifically, we are interested in certain sites of mRNA that interacts with HDLBP, a RNA-binding protein that regulates the translation of mRNA around ER. 
-</p>
-
-<p style="text-align: justify">
-We have recently started to implement custom scripts to analyze codon usage as well as to investigate the "codon pair" usage which counts pairs of codons.
+Markus Landthaler and I are investigating the Codon usage bias of mRNA associated with Endoplasmic Reticulum (ER). Specifically, we are interested in certain sites of mRNA that interacts with HDLBP, a RNA-binding protein that regulates the translation of mRNA around ER. Currently, we are investigating the codon usage of mRNA that are interacting with HDLBP, specifically pairs of codons that are abundantly used by these binding sites as well as their precise locations. See **CodonUtil package** [here](software.html). 
 </p>
 
 **Reference**:
 [HDLBP binds ER-targeted mRNAs by multivalent interactions to promote protein synthesis of transmembrane and secreted proteins](https://github.com/LandthalerLab/CodonUtil)
-
-**GitHub**:
-[https://github.com/LandthalerLab/CodonUtil](https://github.com/LandthalerLab/CodonUtil)
 
 <br>
 

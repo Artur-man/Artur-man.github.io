@@ -10,6 +10,19 @@ output:
 
 <br>
 
+### CodonUtil (Under Development)
+
+<p style="text-align: justify">
+CodonUtil is an R package that allows processing, analysis and visualization of (single or paired) codon usage of RNA sequences. It allows building genome tracks on the usage of codons on genomes of interest and provides normalization on quantified counts of datasets with specific codon features. 
+</p>
+
+**People**: [Markus Landthaler](https://www.mdc-berlin.de/landthaler)
+
+**GitHub**:
+[https://github.com/LandthalerLab/CodonUtil](https://github.com/LandthalerLab/CodonUtil)
+
+<br>
+
 ### Dprofiler (Under Development)
 
 <p style="text-align: justify">
