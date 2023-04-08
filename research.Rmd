@@ -103,7 +103,7 @@ vdat <- read_yaml(file = "research.yml")
 
 <br>
 
-# Omics Analysis
+# Omics Data Analysis
 
 <!-- <p style="text-align: justify"> In high throughput sequencing era, genetic information is complex, chaotic and often incomprehensible. To this end, Bioinformatics has evolved to analyze and summarize massive sequencing data sets, and data scientific methods have been developed to investigate biological systems and cellular dynamics by using these large volumes of processed omics data. </p> -->
 
@@ -121,7 +121,7 @@ make_vignette_card_section(vdat = vdat, cat = 1)
 
 <br>
 
-# Statisical Learning/Computing
+# Statistical Learning/Computing
 
 <p style="text-align: justify"> 
 Computing is an essential part of statistical analysis where building appealing models of data as well as visualizing such data is crucial. A large portion of my work before I moved into computational biology which included building and designing data structures for capturing essential information from the data to either summarize or visualize complex information. 
