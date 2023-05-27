@@ -6,6 +6,7 @@
       summary: |
         Algorithms and platforms for spatial transcriptomics analysis
       image: spatial.png
+      link: spatial.html      
       
     - title: Biological Knowledge Graphs
       name: knowledgegraph
