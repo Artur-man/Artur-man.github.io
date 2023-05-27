@@ -1,7 +1,7 @@
 - category: Bioinformatics
   vignettes:
   
-    - title: Spatial Transcriptomics (Under Development)
+    - title: Spatial Transcriptomics
       name: spatial
       summary: |
         Algorithms and platforms for spatial transcriptomics analysis
