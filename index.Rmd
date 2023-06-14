@@ -11,8 +11,9 @@ output:
 img {
   display: inline;
   margin: 0 auto;
-  height: 100%;
-  width: auto;
+  height: auto;
+  width=100%
+  <!-- width: auto; -->
 }
 <!-- .image_td { -->
 <!--   text-align:center; -->
@@ -52,7 +53,7 @@ img {
 
 <div style = "width:27%; text-align: center; float: left; position:relative;">
   <br>
-  <img width="50%" height="50%" src="image/artur.png">      
+  <img src="image/artur.png">      
   <br>
   <a href="https://scholar.google.com/citations?user=5OrlhE8AAAAJ&hl=en&oi=ao">
     <button class = "button" style = "background: #FFFFFF;">
