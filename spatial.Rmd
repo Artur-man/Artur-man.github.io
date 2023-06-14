@@ -25,15 +25,19 @@ output:
 
 <br>
 
-<table>
-<tbody>
+<!-- <table> -->
+<!-- <tbody> -->
+<!-- <tr> -->
+<!--   <td style = "width: 100%; text-align: center"> -->
+<!--     <img width="100%" height="60%" src="image/spacerover.png" class="center"> -->
+<!--   </td> -->
+<!-- </tr> -->
+<!-- </tbody> -->
+<!-- </table> -->
+
 <tr>
-  <td style = "width: 100%; text-align: center">
-    <img width="100%" height="60%" src="image/spacerover.png" class="center">
-  </td>
+  <td><img width="100%" height="60%" src="image/spacerover.png" class="center"></td>
 </tr>
-</tbody>
-</table>
 
 <br>
 
